@@ -31,3 +31,14 @@ console.log(num)
 
 
 // console.log(romanToInt(54));
+
+
+
+// if you want to add the commit
+
+// yu should do the  following:
+
+// 1. git status
+// 2. git add .
+// 3. git commit -m "commit"
+// 4. git push origin <your-branch-name>
